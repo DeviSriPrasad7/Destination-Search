@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.unit-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: whitesmoke;
+  border-radius: 7px;
+  border-width: 0px;
+  padding: 10px;
+}
+.unorder-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.main-img {
+  height: 5vh;
+  width: 10%;
+}
+.input-ele {
+  margin: 5px;
+}

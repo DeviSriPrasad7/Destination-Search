@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+}
+.img {
+  height: 50vh;
+  width: 50%;
+}
+.heading {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
